@@ -1,3 +1,12 @@
 .App {
   text-align: center;
 }
+.person {
+  width: 60%;
+  margin: 16px auto;
+  border: 1px solid rgb(126, 125, 125);
+  box-shadow: 0 5px 7px #ccc;
+  padding: 16px;
+  background-color: antiquewhite;
+  border-radius: 20px;
+}
